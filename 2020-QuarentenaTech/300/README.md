@@ -20,8 +20,10 @@ Fazer ao mínimo, 5 dos itens abaixo:
 
 ## Referências
 [https://pt.wikipedia.org/wiki/Tetris](https://pt.wikipedia.org/wiki/Tetris)
+
 [https://strategywiki.org/wiki/Tetris/Features](https://strategywiki.org/wiki/Tetris/Features)
+
 [http://cslibrary.stanford.edu/112/Tetris-Architecture.html](http://cslibrary.stanford.edu/112/Tetris-Architecture.html)
 
-## Praxo
+## Prazo
 30/05/2020
